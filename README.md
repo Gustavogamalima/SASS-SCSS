@@ -1,2 +1,2 @@
 # SASS-SCSS
-Projetos com SASS/SCss
+Projetos com SASS/SCSS
